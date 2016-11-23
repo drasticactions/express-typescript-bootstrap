@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "target": "es6",
+    "outDir": "app",
+    "jsx": "preserve"
+  },
+  "exclude": [
+    "node_modules",
+    "typings/main.d.ts",
+    "typings/main"
+  ],
+  "html": [
+    "index.html"
+  ],
+  "css": [ ]
+}
