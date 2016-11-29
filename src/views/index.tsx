@@ -13,7 +13,7 @@ class Index extends React.Component<any, any> {
       <Layout title={this.props.title}>
         <h2>EXAMPLE!</h2>
         <div id="app"></div>
-        <script type="text/javascript" src="/dist/vendor.js"></script>
+        <script type="text/javascript" src="/dist/vendors.js"></script>
         <script type="text/javascript" src="/dist/bundle.js"></script>
       </Layout>
     );
