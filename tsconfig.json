@@ -5,6 +5,7 @@
     "sourceMap": true,
     "target": "es6",
     "outDir": "app",
+    "experimentalDecorators": true,
     "jsx": "preserve"
   },
   "exclude": [

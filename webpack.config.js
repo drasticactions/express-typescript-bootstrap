@@ -6,7 +6,7 @@ var nodeModulesPath = path.join(__dirname, 'node_modules');
 module.exports = {
     devtool: 'eval',
     entry: [
-        './src/app/main'
+        './src/app/components/app'
     ],
     output: {
         path: path.join(__dirname,'app/public/dist'),
